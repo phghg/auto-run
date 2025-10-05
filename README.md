@@ -1,0 +1,2 @@
+# auto-run
+tự chạy
